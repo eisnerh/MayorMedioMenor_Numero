@@ -10,6 +10,8 @@ namespace Cualesel_Mayor
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Ingrese un ");
         }
     }
 }
